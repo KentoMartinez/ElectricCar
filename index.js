@@ -18,4 +18,4 @@ class ElectricCar extends Car {
    }
 }
 const car1 = new ElectricCar('Tesla', 'Model S', 2019, 300);
-   console.log(car1.getDescription());
+   console.log(car1.getDescription()); 
